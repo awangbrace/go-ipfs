@@ -88,7 +88,7 @@ require (
 	github.com/miekg/dns v1.1.41
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/multiformats/go-multiaddr v0.3.1
-	github.com/multiformats/go-multiaddr-dns v0.3.1-0.20210413142747-1fac232e4495
+	github.com/multiformats/go-multiaddr-dns v0.3.1
 	github.com/multiformats/go-multibase v0.0.3
 	github.com/multiformats/go-multihash v0.0.14
 	github.com/opentracing/opentracing-go v1.2.0
