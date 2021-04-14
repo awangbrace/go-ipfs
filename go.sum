@@ -578,8 +578,8 @@ github.com/libp2p/go-conn-security-multistream v0.1.0/go.mod h1:aw6eD7LOsHEX7+2h
 github.com/libp2p/go-conn-security-multistream v0.2.0/go.mod h1:hZN4MjlNetKD3Rq5Jb/P5ohUnFLNzEAR4DLSzpn2QLU=
 github.com/libp2p/go-conn-security-multistream v0.2.1 h1:ft6/POSK7F+vl/2qzegnHDaXFU0iWB4yVTYrioC6Zy0=
 github.com/libp2p/go-conn-security-multistream v0.2.1/go.mod h1:cR1d8gA0Hr59Fj6NhaTpFhJZrjSYuNmhpT2r25zYR70=
-github.com/libp2p/go-doh-resolver v0.2.0 h1:X4vbUs8+nDQykmA8rSIGLOmf+CbFFV+rU41kjf+IELQ=
-github.com/libp2p/go-doh-resolver v0.2.0/go.mod h1:y5go1ZppAq9N2eppbX0xON01CyPBeUg2yS6BTssssog=
+github.com/libp2p/go-doh-resolver v0.2.1-0.20210414170210-9b30936307cb h1:2S0VtSFa3jkmWIYD+3dTTC23XtJyKJI0btVbmgBLDQ4=
+github.com/libp2p/go-doh-resolver v0.2.1-0.20210414170210-9b30936307cb/go.mod h1:y5go1ZppAq9N2eppbX0xON01CyPBeUg2yS6BTssssog=
 github.com/libp2p/go-eventbus v0.1.0/go.mod h1:vROgu5cs5T7cv7POWlWxBaVLxfSegC5UGQf8A2eEmx4=
 github.com/libp2p/go-eventbus v0.2.1 h1:VanAdErQnpTioN2TowqNcOijf6YwhuODe4pPKSDpxGc=
 github.com/libp2p/go-eventbus v0.2.1/go.mod h1:jc2S4SoEVPP48H9Wpzm5aiGwUCBMfGhVhhBjyhhCJs8=
